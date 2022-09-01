@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami/ echo user_emurhopewell12
+who_am_i /echo user_'emurhopewell12'
